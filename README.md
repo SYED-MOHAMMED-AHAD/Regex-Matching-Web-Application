@@ -11,7 +11,7 @@ Key Features:
 Development Process:
 1) Project Setup: A new project directory is created, and Flask is installed to provide the web framework.
 2) Application Initialization: The app.py file initializes the Flask application, defining routes for both the home page and result handling.
-3) HTML Template Creation: The application includes an HTML template (index.html) where users can interact with the app.
+3) HTML Template Creation: The application includes an HTML template (sample.html) where users can interact with the app.
 4) Form Submission Handling: The app processes form submissions by extracting user input, performing regex operations, and rendering the results.
 
 Summary:
